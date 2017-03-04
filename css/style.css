@@ -75,6 +75,10 @@ canvas {
   font-size: 14px;
 }
 
+.btn-thought-experiment-improvements {
+  font-size: 11px !important;
+}
+
 .ui-accordion-content {
   font-size: 14px;
   border: 1px solid #EEE;
@@ -88,6 +92,9 @@ canvas {
 }
 
 
-.btn-thought-experiment-improvements {
-  font-size: 11px !important;
+@media only screen and (max-width: 500px) {
+    .h1-main {
+        font-size: 40px;
+    }
 }
+
