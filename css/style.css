@@ -1,0 +1,93 @@
+a {
+  color: #1A0DAB !important;
+  text-decoration: underline !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+a:visited {
+  color: #609 !important;
+}
+
+.accordion {
+  font-family: Arial, sans-serif;   
+  margin: auto;
+  opacity: 0;
+  text-align: left;
+  width: 100%;
+}
+
+.btn {
+  background: #EEE;
+}
+
+.btn-answer {
+  cursor: pointer;
+  font-size: 50px;
+}
+
+canvas {
+  background: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  left: 0;
+  margin-top: 80px;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 1;
+}
+
+.h1-main {
+  font-size: 60px;
+  margin: 0;
+}
+
+.h2-sub {
+  font-size: 40px;
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.p-footnote {
+  font-size: 8px;
+}
+
+.p-user-reaction {
+  font-size: 14px;
+}
+
+.ui-accordion-content {
+  font-size: 14px;
+  border: 1px solid #EEE;
+}
+
+.ui-accordion .ui-accordion-icons {
+  background: #F1F1F1;
+  border: 0px solid #EEE;
+  border-radius: 0px;
+  font-size: 14px;
+}
+
+
+.btn-thought-experiment-improvements {
+  font-size: 11px !important;
+}
